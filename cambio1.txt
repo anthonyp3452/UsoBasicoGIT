@@ -1,1 +1,2 @@
 Esta es una nueva línea en cambio1.txt
+Resumen de cambios finales
